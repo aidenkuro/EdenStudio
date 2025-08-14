@@ -4,7 +4,7 @@ title: Eden Studio - Développement d'assets Unity
 ---
 
 <p align="center">
-  <img src="http://googleusercontent.com/image_generation_content/4" alt="Logo Eden Studio" width="200">
+  <img src="file:///C:/Users/Zainox/Downloads/Gemini_Generated_Image_9s6f9f9s6f9f9s6f.png">
 </p>
 
 <h1 align="center">Bienvenue chez Eden Studio</h1>
