@@ -25,13 +25,13 @@ Tous nos outils et packs sont disponibles sur notre page éditeur officielle.
 
 ➡️ **[Visiter notre page sur le Unity Asset Store](https://assetstore.unity.com/publishers/METTRE_VOTRE_ID_ICI)**
 
-*(N'oubliez pas de remplacer le lien ci-dessus par l'URL de votre page éditeur une fois qu'elle sera approuvée !)*
+
 
 ## Contact
 
 Pour toute demande de support ou question commerciale, contactez-nous.
 
-**Email :** [chrysco34@gmail.com](mailto:chrysco34@gmail.com)
+**Email :** [chrysco34@gmail.com](mailto:edenstudio34@gmail.com)
 
 ---
 
