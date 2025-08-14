@@ -23,7 +23,7 @@ Forts d'une expérience de plus de 3 ans dans le développement sur Unity, nous 
 
 Tous nos outils et packs sont disponibles sur notre page éditeur officielle.
 
-➡️ **[Visiter notre page sur le Unity Asset Store]([https://assetstore.unity.com/publishers/121384?preview=1))**
+➡️ **[Visiter notre page sur le Unity Asset Store](https://assetstore.unity.com/publishers/121384?preview=1)**
 
 
 ## Contact
